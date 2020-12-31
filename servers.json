@@ -1,0 +1,1037 @@
+[
+  {
+    "name": "Hypixel",
+    "img": "https://i.imgur.com/UamKBjq.jpeg",
+    "ip": "mc.hypixel.com",
+    "desc": {
+      "short": "The Hypixel Network is a Minecraft minigame server released on April 13, 2013, by Simon \"Hypixel\" Collins-Laflamme and Philippe Touchette, and is m...",
+      "long": "The Hypixel Network is a Minecraft minigame server released on April 13, 2013, by Simon \"Hypixel\" Collins-Laflamme and Philippe Touchette, and is managed by Hypixel Inc. Hypixel is only available on the Java Edition of Minecraft, but was formerly available on the Pocket Edition of the game as well"
+    },
+    "tags": [
+      "Survival",
+      "Mini Games",
+      "Bed Wars",
+      "PvP Games",
+      "SkyWars",
+      "UHC",
+      "Something",
+      "Game!"
+    ],
+    "votes": 133700,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://hypixel.net",
+    "version": "1.8",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 1,
+    "uptime": 99.99,
+    "players": {
+      "current": 88728,
+      "maximum": 130000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "MineSuperior",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787533918878040094/favicon.png",
+    "ip": "server.mcs.gg",
+    "desc": {
+      "short": "MineSuperior is part of the next generation of networks. Designed to be for the players. Always constantly adding new ideas. Designed to be transpar",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Creative",
+      "Economy",
+      "Factions",
+      "Prison",
+      "Skyblock",
+      "Survival",
+      "Towny"
+    ],
+    "votes": 2133,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://minesuperior.com",
+    "version": "1.8",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 2,
+    "uptime": 99.98,
+    "players": {
+      "current": 3060,
+      "maximum": 10000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Noble Realms",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787534796020383794/favicon.png",
+    "ip": "play.noblerealms.com",
+    "desc": {
+      "short": "If you are looking for a fun, eventful, family-friendly Minecraft Server look no further than NobleRealms! This server includes a custom",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Economy", "Skyblock", "Survival", "Towny"],
+    "votes": 176,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://noblerealms.com",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 3,
+    "uptime": 99.98,
+    "players": {
+      "current": 70,
+      "maximum": 200
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Grmpixelmon",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787536683267653672/favicon.png",
+    "ip": "grmpixelmon.com",
+    "desc": {
+      "short": "GRM pixelmon was founded by a cat and cookies are the best. We offer a free rank, backpack and pokeheal for everyone. We have loads of custom content",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Economy",
+      "Mini Games",
+      "Pixelmon",
+      "PvE",
+      "Roleplay",
+      "Survival",
+      "Towny"
+    ],
+    "votes": 423,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://grmpixelmon.enjin.com/",
+    "version": "1.12.2",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 4,
+    "uptime": 99.01,
+    "players": {
+      "current": 59,
+      "maximum": 111
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Prime MC",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787537268277116938/favicon.png",
+    "ip": "hub.primemc.org",
+    "desc": {
+      "short": "PrimeMC has been around since 2014 - thats more than 6 years! We are community-driven, and provide high-quality gamemodes with frequent updates.",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Economy",
+      "McMMO",
+      "Prison",
+      "PvE",
+      "PvP",
+      "Survival",
+      "Skyblock"
+    ],
+    "votes": 123,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://www.primemc.org",
+    "version": "1.16.4",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 5,
+    "uptime": 99.03,
+    "players": {
+      "current": 76,
+      "maximum": 2020
+    },
+    "platform": "java"
+  },
+  {
+    "name": "CubeCraft",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787537974543122442/favicon.png",
+    "ip": "play.cubecraft.net",
+    "desc": {
+      "short": "CubeCraft Games is one of the largest server networks in the world. We always strive to make the best games and bring the most fun to everyone.",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Mini Games", "Parkour", "PvE", "PvP", "Skywars", "Skyblock"],
+    "votes": 658,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://cubecraft.net",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "UK",
+    "rank": 6,
+    "uptime": 99.5,
+    "players": {
+      "current": 1469,
+      "maximum": 30000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Datblock",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787538842194149396/favicon.png",
+    "ip": "play.datblock.com",
+    "desc": {
+      "short": "A 1.16 Minecraft network with high quality servers and a friendly community! The network features classics like survival, skyblock, creative, and..",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Creative",
+      "Factions",
+      "Mini Games",
+      "Skyblock",
+      "Survival",
+      "Towny",
+      "Vanilla"
+    ],
+    "votes": 234,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://datblock.com/",
+    "version": "1.16.4",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 7,
+    "uptime": 99.8,
+    "players": {
+      "current": 544,
+      "maximum": 1000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "MC Prison",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787539386312818708/favicon.png",
+    "ip": "play.mcprison.com",
+    "desc": {
+      "short": "MCPrison is the first custom aquatic prison experience set in Minecraft version 1.16. Our server offers many unique features including; Backpacks",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Creative",
+      "Factions",
+      "Mini Games",
+      "Skyblock",
+      "Survival",
+      "Towny",
+      "Vanilla"
+    ],
+    "votes": 768,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://www.mcprison.com/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 8,
+    "uptime": 99.8,
+    "players": {
+      "current": 899,
+      "maximum": 1000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "InvadedLands",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787540062324654140/wdXEHEDg8o8pwAAAABJRU5ErkJggg.png",
+    "ip": "play.invadedlands.net",
+    "desc": {
+      "short": "InvadedLands is a network which consists of the following gamemodes: kitpvp, skyblock, survival. To learn more, visit our website at...",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["KitPvP", "Skyblock", "Survival"],
+    "votes": 901,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://invadedlands.net/",
+    "version": "1.16.4",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 9,
+    "uptime": 99.99,
+    "players": {
+      "current": 84,
+      "maximum": 3000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Applecraft",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787540662576480296/favicon.png",
+    "ip": "play.applecraft.org",
+    "desc": {
+      "short": "Applecraft is a survival server that offers ranks and extra /sethomes for voting, grief protection, custom player shops and friendly staff...",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Economy", "Mini Games", "PvE", "Survival", "Vanilla"],
+    "votes": 141,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://applecraft.org/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "CA",
+    "rank": 10,
+    "uptime": 99.8,
+    "players": {
+      "current": 248,
+      "maximum": 300
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Manacube",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787541189875990528/favicon.png",
+    "ip": "join.manacube.net",
+    "desc": {
+      "short": "ManaCube is a premium Minecraft network with the following gamemodes: parkour, creative, kitpvp, skyblock, survival, prison, islands. ManaCube has",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Economy", "Mini Games", "PvE", "Survival", "Vanilla"],
+    "votes": 134,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://www.manacube.net/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "CA",
+    "rank": 11,
+    "uptime": 99.8,
+    "players": {
+      "current": 1978,
+      "maximum": 3000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "PvP Wars",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787542804779761694/favicon.png",
+    "ip": "pvpwars.net",
+    "desc": {
+      "short": "PvPWars is a network of Minecraft servers that released on March 25th 2017. We have a lot of experience with hosting fun, popular and unique servers!",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Economy", "Factions", "McMMO", "PvP", "Skyblock"],
+    "votes": 11948,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://pvpwars.net/",
+    "version": "1.16.4",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 12,
+    "uptime": 99.4,
+    "players": {
+      "current": 1744,
+      "maximum": 4250
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Lemon Cloud",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787543271198949406/favicon.png",
+    "ip": "one.lemoncloud.net",
+    "desc": {
+      "short": "Welcome to LemonCloud! Our awesome gamemodes: OP Prison, OP Factions, Skyblock, Creative, Skywars, KitPvP, Survival, Factions",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Creative",
+      "Economy",
+      "Factions",
+      "Prison",
+      "Skyblock",
+      "Survival",
+      "Towny"
+    ],
+    "votes": 11674,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://lemoncloud.org/",
+    "version": "1.16.4",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 13,
+    "uptime": 99.8,
+    "players": {
+      "current": 766,
+      "maximum": 1500
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Vulengate",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787543944980070431/favicon.png",
+    "ip": "play.vulengate.com",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Economy", "MCMMO", "PvE", "Survival", "Vanilla"],
+    "votes": 10225,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://www.vulengate.com/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 14,
+    "uptime": 99.8,
+    "players": {
+      "current": 179,
+      "maximum": 300
+    },
+    "platform": "java"
+  },
+  {
+    "name": "The Archon",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787544426544889876/favicon.png",
+    "ip": "org.archonhq.net",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Economy",
+      "Factions",
+      "McMMO",
+      "Prison",
+      "PvE",
+      "PvP",
+      "Skyblock"
+    ],
+    "votes": 9952,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://www.thearchon.net/",
+    "version": "1.16.4",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 15,
+    "uptime": 99.8,
+    "players": {
+      "current": 1392,
+      "maximum": 3000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Minecraft Central",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787545965464125450/favicon.png",
+    "ip": "mccentral.org",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Factions",
+      "KitPvP",
+      "Mini Games",
+      "Prison",
+      "Skyblock",
+      "Survival",
+      "Survival Games"
+    ],
+    "votes": 8571,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://mccentral.org/",
+    "version": "1.16.4",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 16,
+    "uptime": 99.4,
+    "players": {
+      "current": 1714,
+      "maximum": 10000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Gamster",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787546539944968222/favicon.png",
+    "ip": "mc.gamster.org",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Creative", "Factions", "Mini Games", "Skyblock", "Survival"],
+    "votes": 8419,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://www.gamster.org/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "RO",
+    "rank": 17,
+    "uptime": 99.4,
+    "players": {
+      "current": 49,
+      "maximum": 5000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "EarthMC",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787547355679031296/favicon.png",
+    "ip": "play.earthmc.net",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["PvE", "PvP", "Roleplay", "Survival", "Towny"],
+    "votes": 8146,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://earthmc.net/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "RO",
+    "rank": 18,
+    "uptime": 99.4,
+    "players": {
+      "current": 122,
+      "maximum": 200
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Performium",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787547925185036309/favicon.png",
+    "ip": "play.performium.net",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Factions", "PvP", "McMMO", "Mini Games", "Skyblock", "Survival"],
+    "votes": 6903,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://www.performium.net/",
+    "version": "1.8.9",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 19,
+    "uptime": 99.7,
+    "players": {
+      "current": 1577,
+      "maximum": 3999
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Mineland",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787548367504932884/favicon.png",
+    "ip": "come.join-ml.com",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Anarchy",
+      "Creative",
+      "Mini Games",
+      "Parkour",
+      "Roleplay",
+      "Skyblock",
+      "Survival"
+    ],
+    "votes": 6614,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://mineland.net/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 20,
+    "uptime": 93,
+    "players": {
+      "current": 611,
+      "maximum": 2191
+    },
+    "platform": "java"
+  },
+  {
+    "name": "The DestinyMC",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787548934079381504/favicon.png",
+    "ip": "play.thedestinymc.com",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Anarchy",
+      "Creative",
+      "Mini Games",
+      "Parkour",
+      "Roleplay",
+      "Skyblock",
+      "Survival"
+    ],
+    "votes": 6550,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://www.thedestinymc.com/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 21,
+    "uptime": 99.5,
+    "players": {
+      "current": 224,
+      "maximum": 1000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Simple Survival",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787549351193870356/favicon.png",
+    "ip": "play.simplesurvival.gg",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Economy", "PvE", "PvP", "Vanilla", "Survival"],
+    "votes": 6351,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://simplesurvival.org/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 22,
+    "uptime": 95.9,
+    "players": {
+      "current": 120,
+      "maximum": 200
+    },
+    "platform": "java"
+  },
+  {
+    "name": "HoaxMC",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787549834957684777/favicon.png",
+    "ip": "play.hoaxmc.com",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["McMMO", "Skyblock"],
+    "votes": 5309,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://buy.hoaxmc.com/",
+    "version": "1.16.4",
+    "discord": "https://crafty.gg/discord",
+    "country": "CA",
+    "rank": 23,
+    "uptime": 99.99,
+    "players": {
+      "current": 408,
+      "maximum": 2020
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Snapcraft",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787550178202615818/favicon.png",
+    "ip": "play.snapcraft.net",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Factions",
+      "KitPvP",
+      "Prisons",
+      "PvP",
+      "Raiding",
+      "Skyblock",
+      "Survival"
+    ],
+    "votes": 2342,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "https://www.snapcraft.net/",
+    "version": "1.16.4",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 24,
+    "uptime": 99.5,
+    "players": {
+      "current": 311,
+      "maximum": 1750
+    },
+    "platform": "java"
+  },
+  {
+    "name": "MunchyMC",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787550651063468052/favicon.png",
+    "ip": "munchymc.com",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["KitPvP", "Prisons", "Mini Games", "Skywars"],
+    "votes": 4952,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://munchymc.com/",
+    "version": "1.16.4",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 25,
+    "uptime": 99.4,
+    "players": {
+      "current": 350,
+      "maximum": 10000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Skyblock.net",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787551055062761492/favicon.png",
+    "ip": "skyblock.net",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": [
+      "Economy",
+      "Mini Games",
+      "Parkour",
+      "Skyblock",
+      "Skywars",
+      "Survival",
+      "Vanilla"
+    ],
+    "votes": 4871,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://www.skyblock.net/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 26,
+    "uptime": 99.2,
+    "players": {
+      "current": 230,
+      "maximum": 750
+    },
+    "platform": "java"
+  },
+  {
+    "name": "GommeHD",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787661403917910026/favicon.png",
+    "ip": "gommehd.net",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Mini Games"],
+    "votes": 9699,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://www.gommehd.net/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "DE",
+    "rank": 27,
+    "uptime": 99.2,
+    "players": {
+      "current": 5301,
+      "maximum": 10000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Mineplex",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787661933372637254/favicon.png",
+    "ip": "us.mineplex.com",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Mini Games", "PvP", "Survival Games"],
+    "votes": 4338,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://www.mineplex.com/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 28,
+    "uptime": 99.1,
+    "players": {
+      "current": 860,
+      "maximum": 861
+    },
+    "platform": "java"
+  },
+  {
+    "name": "HiveMC",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787662397837148170/favicon.png",
+    "ip": "play.hivemc.com",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["Mini Games", "PvP", "Survival Games", "Parkour", "Skywars"],
+    "votes": 2466,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://www.hivemc.com/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 29,
+    "uptime": 99.4,
+    "players": {
+      "current": 1540,
+      "maximum": 20000
+    },
+    "platform": "java"
+  },
+  {
+    "name": "Wynncraft",
+    "img": "https://cdn.discordapp.com/attachments/493051301727305738/787662829402062848/favicon.png",
+    "ip": "play.wynncraft.com",
+    "desc": {
+      "short": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "long": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting"
+    },
+    "tags": ["PvE", "Roleplay"],
+    "votes": 1028,
+    "listedBy": {
+      "uid": 191691438415675392,
+      "name": "Example",
+      "tag": "#0001"
+    },
+    "listed": 1607833532568,
+    "lastEdited": 1607833532568,
+    "lastPing": 1607833532568,
+    "status": "online",
+    "website": "http://wynncraft.com/",
+    "version": "1.16",
+    "discord": "https://crafty.gg/discord",
+    "country": "USA",
+    "rank": 30,
+    "uptime": 97.9,
+    "players": {
+      "current": 1067,
+      "maximum": 1
+    },
+    "platform": "java"
+  }
+]
